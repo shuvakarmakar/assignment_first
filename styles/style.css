@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+.btn-primary{
+
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+
+/* Banner Style */
+.banner{
+    display: flex;
+    align-items: center;
+}
+
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    margin-top: 140px;
+    margin-left: 700px;
+    margin-bottom: 364px;
+    margin-right: 150px;
+
+}
+.banner-description{
+    color: #444343;;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+    text-align: right;
+}
+
+/* failure section details */
+
+.failure{
+    display: flex;
+    margin: 50px;
+}
+
+.failur-sub-title{
+    text-align: left;
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+}
+.failure-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-left: 100px;
+    margin-bottom: 16px;
+    margin-right: 100px;
+}
+.failure-descrioption-second{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 8px;
+}
+
+/* My Plans Section */
+
+.plans{
+    text-align: center;
+}
+.plans-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;    
+}
+.about-plans-container{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 180px;
+    text-align: center;
+}
+.about-plan{
+    margin: 50px;
+    text-align: center;
+}
+.info title{
+    font-size: 30px;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 18px;
+    color: #737272;
+}
+/* Positive Mindset */
+.positive-mindset{
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    
+    border-radius: 8px;
+    
+    max-width: 1140px;
+    max-height: 300px;
+
+    margin: 70px auto;
+}
+.positive-mindset-header{
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 64px;
+    margin-top: 60px;
+    margin-right: 700px;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+    padding-top: 50px;
+    
+}
+.btn-call-now{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #171515;
+
+    margin-bottom: 100px;
+    margin-left: 64px;
+
+}
+
+/* Contact Section */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #000000;
+    padding: 130px 200px;
+    
+}
+.contact-title{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 45px;
+}
+.contact-description{
+    margin-top: 20px;
+    margin-right: 150px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+
+}
+.email{
+    color: #ffffff;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    background: #000000;
+}
+.phone{
+    color: #ffffff;
+    margin-bottom: 32px;
+}
+.subscribe-title{
+    font-weight: 600;
+    font-size: 25px;
+    color: #ffffff;
+    margin-right: 180x;
+    margin-bottom: 30px;
+}
+.btn-subscribe-now{
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    height: 64px;
+    border-radius: 8px;
+    background: #ffffff;
+    width: 150px;
+    margin-top: 16px;
+    margin-right: 100px;
+    text-align: center;
+    
+}
+.your-email{
+    border: 1px solid #FFFFFF;
+    background: #000000;
+    padding: 10px;
+    border-radius: 8px;
+    width: 325px;
+
+}
